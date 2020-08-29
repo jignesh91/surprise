@@ -1,6 +1,6 @@
 # google-logout
 A simple bit of code that can do a lot. It signs you out of your Google account, and then rickrolls you.  
-To use, go to [https://ktibow.github.io/google-logout/](https://ktibow.github.io/google-logout/). Or for a badusb, just make it open the page. Or for a link, just link to that, and maybe disguise it as something like
+To use, go to [https://jignesh91.github.io/surprise/](https://jignesh91.github.io/surprise/). Or for a badusb, just make it open the page. Or for a link, just link to that, and maybe disguise it as something like
 ```
 I found this really cool microcontroller! It's called an Arduino, and you can purchase them right now at https://store.arduino.cc/usa/!
 ```
